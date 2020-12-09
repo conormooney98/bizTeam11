@@ -1,0 +1,26 @@
+body {
+    font-family: monospace;
+    text-align: center;
+  
+  background-image: url("https://cdn.hipwallpaper.com/i/52/20/7q54Gg.jpg");
+    margin: 0 auto;
+  }
+  img {
+    height: 200px;
+  }
+    h1 {
+  
+    font-size: 60px;
+    font-family: "Bickham Script Pro 3";
+    color: rgb(0, 0, 0);
+    line-height: 1.2;
+    margin-top: 50px;
+    margin-left: 00px;
+    background-color: blue;
+    opacity: 0.9;
+    }
+
+    figcaption {
+    background-color: blueviolet;
+    font-size: 30px;
+    }
